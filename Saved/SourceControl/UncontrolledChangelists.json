@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/dev/unreal-engine-projects/levelingSystem 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/dev/unreal-engine-projects/levelingSystem 5.1/Content/Game/UI/WBP_Stats.uasset",
+				"D:/dev/unreal-engine-projects/levelingSystem 5.1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/dev/unreal-engine-projects/levelingSystem 5.1/Content/FirstPerson/Structures/Player_Stats_Structure.uasset",
+				"D:/dev/unreal-engine-projects/levelingSystem 5.1/Content/Game/UI/WBP_XP.uasset",
+				"E:/unreal-engine-projects/levelingSystem 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/unreal-engine-projects/levelingSystem 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/unreal-engine-projects/levelingSystem 5.1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/unreal-engine-projects/levelingSystem 5.1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
